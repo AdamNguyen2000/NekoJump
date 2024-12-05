@@ -3,7 +3,7 @@
 
 ## Drawing the cover art
 
-- I drew this concept art on my ipad mini + apple pencil pro using the all Sketchbook
+- I drew this concept art on my ipad mini + apple pencil pro using the app Sketchbook
 
 ![IMG_0015](https://github.com/user-attachments/assets/253d6300-960d-45c2-b8bb-1c788898aaed)
 
