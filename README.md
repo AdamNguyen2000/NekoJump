@@ -1,8 +1,6 @@
 
 # NekoJump: Mango's Platformer Adventure
 
----
-
 ## Drawing the cover art
 
 - I drew this concept art on my ipad mini + apple pencil pro using the all Sketchbook
